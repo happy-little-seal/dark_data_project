@@ -1,0 +1,2 @@
+要運行prediction_board.py，請先確保已經安裝以下module:
+streamlit, pandas, numpy, joblib,sklearn, re, os, 
